@@ -1,30 +1,289 @@
-<h1 align="center">Hi 👋, I'm Eyad Ayman</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eaey&label=Profile%20views&color=0e75b6&style=flat" alt="eaey" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=EYAD%20AYMAN&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer&descAlignY=58&descAlign=50"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaey" alt="eaey" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Figma+Pixels+Into+Production+Code;React+%E2%80%A2+ASP.NET+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Design-Minded.+Engineering-Driven.;Scroll+down+%E2%80%94+there's+a+snake+eating+my+commits+%F0%9F%90%8D" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Front End Developmet**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://eaey.github.io/portfolio/](https://eaey.github.io/portfolio/)
+<img src="https://komarev.com/ghpvc/?username=eyadayman&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views"/>
 
-- 📫 How to reach me **eyadghetas@gmail.com**
+<a href="mailto:eyadghetas@gmail.com"><img src="https://img.shields.io/badge/Email-eyadghetas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nf-GsGo0MrRUgn_6xjvhlnmymZJFpqsA/view](https://drive.google.com/file/d/1nf-GsGo0MrRUgn_6xjvhlnmymZJFpqsA/view)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/eyad311ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad311ayman" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/evad_fouad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/evad_fouad/" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- FAKE TERMINAL INTRO -->
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaey&show_icons=true&locale=en&layout=compact" alt="eaey" /></p>
+```
+╭──────────────────────────────────────────────────────╮
+│  ●  ●  ●   eyad@fullstack-dev : ~                     │
+├──────────────────────────────────────────────────────┤
+│                                                        │
+│  $ whoami                                             │
+│  › Eyad Ayman Mohamed Fouad                           │
+│  › Full Stack Web Developer & UI/UX Engineer          │
+│                                                        │
+│  $ base --location                                    │
+│  › 6th of October, Egypt 🇪🇬                          │
+│                                                        │
+│  $ core --stack                                       │
+│  › React · TypeScript · ASP.NET · Node.js · Flutter   │
+│                                                        │
+│  $ superpower                                         │
+│  › Turning Figma files into pixel-perfect, scalable   │
+│  › interfaces — then wiring them to real APIs          │
+│                                                        │
+│  $ languages --spoken                                 │
+│  › Arabic (Native) · English (IELTS 4.5)              │
+│                                                        │
+│  $ echo $PHILOSOPHY                                   │
+│  › "Design the pixel. Engineer the logic."            │
+│                                                        │
+│  $ _                                                   │
+╰──────────────────────────────────────────────────────╯
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eaey&show_icons=true&locale=en" alt="eaey" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaey&" alt="eaey" /></p>
+---
 
+## 🐍 My Commits, Devouring My Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+> 🔧 **Setup required** — this animation is generated by a GitHub Action, not a static image.
+> A ready-to-use workflow file (`snake.yml`) is included below — see the setup guide at the end of this message.
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Front-End**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+
+**Back-End & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mysql,postgres&theme=dark" />
+
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+**Design & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,postman,vscode,npm&theme=dark" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**💻 Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🧩 Frameworks**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Skill Radar
+
+<div align="center">
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=500&h=350&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Front-End%22%2C%20%22Back-End%22%2C%20%22UI%2FUX%20Design%22%2C%20%22Mobile%20Dev%22%2C%20%22Databases%22%2C%20%22Problem%20Solving%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B95%2C%2078%2C%2090%2C%2070%2C%2075%2C%2092%5D%2C%20%22backgroundColor%22%3A%20%22rgba%280%2C%20217%2C%20255%2C%200.25%29%22%2C%20%22borderColor%22%3A%20%22rgb%280%2C%20217%2C%20255%29%22%2C%20%22pointBackgroundColor%22%3A%20%22rgb%280%2C%20217%2C%20255%29%22%2C%20%22pointBorderColor%22%3A%20%22%23fff%22%2C%20%22borderWidth%22%3A%202%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.2%29%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.2%29%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%7D%7D%7D%7D%7D" width="480"/>
+</div>
+
+---
+
+## 🧠 Core Competencies
+
+<div align="center">
+
+| 🏗️ Software Engineering | 🎨 UI/UX Design | 🤝 Soft Skills |
+|:---|:---|:---|
+| Object-Oriented Programming | Wireframing & Prototyping | Team Collaboration |
+| SOLID Principles | Design Systems | Effective Communication |
+| Design Patterns & Clean Code | User Flows & Information Architecture | Problem Solving |
+| RESTful API Development | Responsive Design | Client Requirement Analysis |
+| Database Design & Normalization | Design Handoff to Developers | Adaptability & Critical Thinking |
+| JWT Authentication & Authorization | Design Systems | Time Management |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Website
+**Web Development**
+
+A responsive school platform presenting academic programs, faculty details, and events — with online registration and parent communication features.
+
+`HTML` `CSS` `JavaScript` `Responsive UI`
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 Medical Representative Helper App
+**Desktop Application**
+
+A structured desktop app for medical reps to manage schedules, appointments, and customer interactions with an efficient UI.
+
+`C#` `WPF` `SQL Server`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💉 Pharma Shop
+**UI/UX Design**
+
+UI design for a pharmaceutical & nutrition sales platform — clean product presentation and a smooth, responsive purchase flow.
+
+`Figma` `UI Design` `E-commerce UX`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏘️ Taibet Alkhair
+**UI/UX Design**
+
+Real estate website UI focused on property listings, search experience, and clear, intuitive navigation.
+
+`Figma` `UX Research` `Real Estate`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 SafeCycle
+**Web Development**
+
+A tracking and maintenance system for factory equipment & inventory, enabling structured monitoring and reduced downtime.
+
+`Web Development` `Inventory System` `Operations`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Mac OS Portfolio
+**Web Development**
+
+A creative macOS-inspired portfolio UI showcasing projects & skills with a smooth, modern desktop-style interface.
+
+`JavaScript` `Creative UI` `Portfolio`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<details>
+<summary><b>🎨 Click to reveal how I approach a project</b></summary>
+<br/>
+
+```
+   Discover  ──▶  Wireframe  ──▶  Prototype (Figma)  ──▶  Build (React/ASP.NET)
+       │                                                          │
+       └───────────────────  Test, Polish, Ship  ◀────────────────┘
+```
+
+I treat every build as a design problem first and a code problem second —
+research the user, sketch the flow, prototype in Figma, then engineer it
+with clean, maintainable, well-structured code.
+
+</details>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eyadayman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadayman&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadayman&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyadayman&theme=tokyo-night&hide_border=true" width="98%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eyadayman&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+> ⚠️ *Replace `eyadayman` in every URL above with your real GitHub username so the widgets render correctly.*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:eyadghetas@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="tel:+201022914719"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+all+the+way+down!+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
