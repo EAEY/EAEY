@@ -368,7 +368,7 @@ Creative macOS-inspired portfolio UI showcasing projects &amp; skills with a smo
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EAEY&theme=tokyonight&no-frame=true&row=1&column=7" width="98%"/>
+<img src="https://raw.githubusercontent.com/EAEY/EAEY/output/trophy.svg" width="98%"/>
 
 </div>
 
