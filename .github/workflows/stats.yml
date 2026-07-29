@@ -31,19 +31,38 @@ jobs:
         run: |
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=EAEY&theme=tokyonight&hide_border=true&border_radius=10" -o dist/streak.svg
 
-      - name: Fetch trophy card
+      - name: Generate trophy-style stats card (no third-party service)
         run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=EAEY&theme=tokyonight&no-frame=true&row=1&column=7" -o dist/trophy.svg
+          mkdir -p dist
+          user=$(curl -s "https://api.github.com/users/EAEY")
+          repos=$(echo "$user" | grep -o '"public_repos":[0-9]*' | grep -o '[0-9]*')
+          followers=$(echo "$user" | grep -o '"followers":[0-9]*' | grep -o '[0-9]*')
+          repos=${repos:-0}
+          followers=${followers:-0}
+          cat > dist/trophy.svg <<SVG
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+  <rect width="600" height="120" rx="10" fill="#1a1b27"/>
+  <text x="150" y="50" text-anchor="middle" fill="#7aa2f7" font-family="Segoe UI, sans-serif" font-size="34" font-weight="bold">${repos}</text>
+  <text x="150" y="78" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, sans-serif" font-size="14">Public Repos</text>
+  <line x1="300" y1="20" x2="300" y2="100" stroke="#3b3f51" stroke-width="1"/>
+  <text x="450" y="50" text-anchor="middle" fill="#bb9af7" font-family="Segoe UI, sans-serif" font-size="34" font-weight="bold">${followers}</text>
+  <text x="450" y="78" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, sans-serif" font-size="14">Followers</text>
+</svg>
+SVG
 
-      - name: Verify all cards downloaded successfully
+      - name: Verify all cards generated successfully
         run: |
-          for f in dist/stats.svg dist/top-langs.svg dist/streak.svg dist/trophy.svg; do
+          for f in dist/stats.svg dist/top-langs.svg dist/streak.svg; do
             if [ ! -s "$f" ] || grep -qi "error\|not found\|payment required" "$f"; then
               echo "::error::$f failed to generate correctly — check upstream service status"
               cat "$f"
               exit 1
             fi
           done
+          if [ ! -s dist/trophy.svg ]; then
+            echo "::error::dist/trophy.svg is empty — GitHub API call may have failed"
+            exit 1
+          fi
 
       - name: Push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v4
